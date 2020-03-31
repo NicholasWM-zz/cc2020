@@ -1,5 +1,5 @@
 # Aula01-TP01-PWR
-
+[Ir para o Sumário](../../README.md)
 ## Parte I (Questões):
 1. O que são os elementos de um HTML? Forneça um exemplo
 
