@@ -1,3 +1,5 @@
+# Aula01-TP01-PWR
+
 ## Parte I (Questões):
 1. O que são os elementos de um HTML? Forneça um exemplo
 
@@ -20,3 +22,7 @@
         <i>Meu texto em itálico</i>
 5. Qual tag deve ser utilizada para inserir palavras chaves? Onde deve ser colocada esta tag?
 6. Quais atributos a tag <img> aceita? Quais são as características de cada um?
+
+## Resultado
+
+![Aula01-TP01-PWR](../gifs/Aula01-TP01-PWR.gif)
