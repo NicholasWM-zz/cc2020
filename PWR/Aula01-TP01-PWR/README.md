@@ -11,7 +11,7 @@
     Ex: Dentro de img temos os atributos: **src**, **alt** ...
 
 **3. O que é identar uma página?**
-
+> Identar nada mais é que organizar trechos do seu código com tabs ou espaços, fazer com que ele fique mais bonito e legivel.
 **4. Explique e exemplifique 3 tags para formatação de texto, e qual é sua utilização típica?**
 
 >    Tag p, utilizada para paragrafos
@@ -26,9 +26,15 @@
 
     <i>Meu texto em itálico</i>
 **5. Qual tag deve ser utilizada para inserir palavras chaves? Onde deve ser colocada esta tag?**
+> A tag meta
 
 **6. Quais atributos a tag <img> aceita? Quais são as características de cada um?**
+> Diversos, os principais são:
+    
+ - **src** -> Indica a localização da imagem.
+ - **alt** -> Palavra para acessibilidade
+ - **style** -> Inserir estilos.
 
-## Resultado
+## **Resultado**
 
 ![Aula01-TP01-PWR](../gifs/Aula01-TP01-PWR.gif)
