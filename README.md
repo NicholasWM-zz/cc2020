@@ -4,6 +4,7 @@
 > Projetos relacionados com HTML, CSS e JS
 - 0.1  [Indice](/PWR/README.md)
 - 0.2  [Aula01-TP01-PWR](/PWR/Aula01-TP01-PWR/README.md)
+- 0.3  [Aula02-TP02-PWR](/PWR/Aula02-TP02-PWR/README.md)
 ## 1 -  Programação de Dispositivos Móveis(PDM)
 > Projetos mobile utilizando App Inventor
 - 1.1  [Indice](/PDM/README.md)
