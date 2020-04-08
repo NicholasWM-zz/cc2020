@@ -145,7 +145,6 @@ O navegador que está em posse desses arquivos que foram baixados do servidor ag
 > HTML texto preformatado `<pre>` é a tag utilizada para representar texto pré-formatado. Um texto dentro desse elemento é tipicamente exibido em uma fonte não proporcional da mesma maneira em que o texto original foi disposto no arquivo. Espaços em branco são mantidos no texto da mesma forma em que este foi digitado.
 
 > Exemplo: 
-
 ```html
 <pre>
     body {
@@ -196,7 +195,9 @@ Nomeie a primeira página como index.html, a segunda como pagina2.html.
 ## Resultado:
 
 ### Pagina 1: `index.html`
+
 >Código
+
 ```html
 <!DOCTYPE html>
 <html lang="en">
@@ -211,7 +212,6 @@ Nomeie a primeira página como index.html, a segunda como pagina2.html.
             .destaque{
                 background-color: yellow;
             }
-
         </style>
     </head>
     <body>
@@ -230,9 +230,13 @@ Nomeie a primeira página como index.html, a segunda como pagina2.html.
 </html>
 ```
 >Resultado:
+
 ![Aula03-TP03-PWR-index](../prints/Aula03-TP03-PWR-00.png)
+
 ### Pagina 2: `pagina2.html`
+
 >Código
+
 ```html
 <!DOCTYPE html>
 <html lang="en">
@@ -262,9 +266,13 @@ Nomeie a primeira página como index.html, a segunda como pagina2.html.
     </body>
 </html>
 ```
+
 >Resultado:
+
 ![Aula03-TP03-PWR-pagina2](../prints/Aula03-TP03-PWR-01.png)
+
 ### Pagina 3: `pagina3.html`
+
 >Código
 ```html
 <!DOCTYPE html>
@@ -288,13 +296,18 @@ Nomeie a primeira página como index.html, a segunda como pagina2.html.
     </body>
 </html>
 ```
+
 >Resultado:
+
 ![Aula03-TP03-PWR-pagina3](../prints/Aula03-TP03-PWR-02.jpg)
+
 ### Pagina 4: `pagina4.html`
 >Código
+
 ```html
 
 ```
 >Resultado:
+
 ![Aula03-TP03-PWR-pagina4](../prints/Aula03-TP03-PWR-03.png)
 
