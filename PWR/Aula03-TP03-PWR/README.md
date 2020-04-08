@@ -30,7 +30,7 @@ Complete a frase que possui reticências com a alternativa correta:
 
 Na década de 80 o termo “internet” começou a ser dito e as proporções começaram também a mudar, o que antes era apenas para fins de comunicação militar passou a ser uma rede de conhecimento que interligava universidades do mundo todo. Na década de 90 a internet começava a chegar para nós, meros mortais, em nossos recém adquiridos Personal Computers (PC), baseado nisso, temos duas asserções:
 
-#### 1 - Em 1992 cria-se a World Wide Web, o nosso famoso WWW.
+#### 1 - Em 1992 cria-se a World Wide Web, o nosso famoso `WWW`.
 
 ##### PORQUE 2:
 
