@@ -304,9 +304,6 @@ Nomeie a primeira página como index.html, a segunda como pagina2.html.
 ### Pagina 4: `pagina4.html`
 >Código
 
-```html
-
-```
 >Resultado:
 
 ![Aula03-TP03-PWR-pagina4](../prints/Aula03-TP03-PWR-03.png)
