@@ -329,5 +329,5 @@ Nomeie a primeira página como index.html, a segunda como pagina2.html.
 ```
 >Resultado:
 
-![Aula03-TP03-PWR-pagina4](../prints/Aula03-TP03-PWR-03.png)
+![Aula03-TP03-PWR-pagina4](../prints/Aula03-TP03-PWR-03.PNG)
 
